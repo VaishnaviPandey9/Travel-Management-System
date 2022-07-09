@@ -1,0 +1,12 @@
+--------Dream Escape Travel Agency--------
+-------------Receipt-------------
+_________________________________
+Customer ID: 0
+
+Description		 Total
+Hotel cost:		 15500.00
+Travel (cab) cost:	 672.00
+_________________________________
+Total Charge:		 16172.00
+_________________________________
+------------THANK YOU------------
